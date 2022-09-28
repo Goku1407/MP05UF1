@@ -32,16 +32,19 @@ Podeu fer servir imatges rellevants.
 
 # Python
 
->#### Naixement, creadors i evolució històrica.
+>### Naixement, creadors i evolució històrica.
   Python va ser creat a finals dels anys 80 per **Guido Van Rossum** al CWI (*Centrum Wiskunde & Informatica*) a Holanda, quan es trobava treballant en el sistema operatiu Amoeba, i el 20 de Febrer de 1991 va publicar el codi per primera vegada en alt.sources, la versió 0.9.0.
   <br><br>La versió 1.0 va arribar el 20 de ebrer de 1991 i el 2.0 el 16 d'octubre del 2000, peró el gran canvi no va arribar fins a ala versió 3.0, fet amb molta ajuda de la comunitat, que va arribar el 3 de desembre de 2008.
->#### Característiques del llenguatge.
->#### Imperatiu, declaratiu, OOP.
->#### Compilat, interpretat, híbrid...
-  
-#### Compilat, interpretat, híbrid...
-- #### Principals novetats o aportacions respecte altres llenguatges.
-- #### Avantatges i inconvenients respecte altres llenguatges.
+>### Característiques del llenguatge.<br>
+jhshshs
+>>### Imperatiu, declaratiu, OOP.
+jjjjjjjjjjjjj
+>>### Compilat, interpretat, híbrid...
+jjjjjjjjjjjj
+>>### Principals novetats o aportacions respecte altres llenguatges. 
+jjjjjjjjjjj
+>>### Avantatges i inconvenients respecte altres llenguatges.
+jjjjjjjjjjjjjjj
 - #### Principals entorns on es fa servir el llenguatge.
 - #### Exemple de codi (valoraré especialment si mostreu que ho heu implementat i provat).
 - #### Hola mòn (Molt fàcil de trobar).
